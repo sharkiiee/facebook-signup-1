@@ -1,4 +1,4 @@
-export function Navbar()
+export function Signup()
 {
     return <div className="container flex mt-36 mx-auto w-4/5 items center justify-center">
         <div className="left  mx-14">
